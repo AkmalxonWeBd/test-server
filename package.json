@@ -7,7 +7,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start":"json-server --watch db.json --port 8080"
+    "startt":"json-server --watch db.json --port 8080"
   },
   "keywords": [],
   "author": "",
